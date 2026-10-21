@@ -95,8 +95,7 @@ I'd rather be upfront about the gaps than have anyone find them in a meeting.
 
 ## How to open it
 
-Double-click `healthcare_executive_dashboard.html`. It works in any modern browser (Chrome, Edge, Firefox, Safari).
-
+https://rahulbitmesramnc.github.io/Healthcare-data-Analytics-Project/
 ---
 
 ## Making it complete
